@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on programming.
-- 🌱 I’m currently learning Python, C, C++, Java, Pascal.
+- 🌱 I’m currently using and learning Dart, Python, C, Java, Pascal.
 - 👯 I’m looking to collaborate on research.
 - 🤔 I’m looking for help with things which I don't know.
 - 💬 Ask me about something interesting.
