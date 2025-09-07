@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on programming.
-- 🌱 I’m currently using and learning Dart, Python, C, Java, Pascal.
-- 👯 I’m looking to collaborate on research.
+- 🌱 I’m currently using and learning Swift, Dart, Rust, Python, C, Java, Typescript, Pascal.
+- 👯 I’m looking to collaborate on development and research.
 - 🤔 I’m looking for help with things which I don't know.
 - 💬 Ask me about something interesting.
 - 📫 How to reach me: jnc@freew.org
