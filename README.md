@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on programming.
+- 🔭 I’m currently working on Android, iOS, and macOS app development.
 - 🌱 I’m currently using and learning Swift, Dart, Rust, Python, C, Java, Typescript, Pascal.
 - 👯 I’m looking to collaborate on development and research.
 - 🤔 I’m looking for help with things which I don't know.
