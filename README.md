@@ -3,6 +3,6 @@
 - 👯 I’m looking to collaborate on development and research.
 - 🤔 I’m looking for help with things which I don't know.
 - 💬 Ask me about something interesting.
-- 📫 How to reach me: jnc@freew.org
+- 📫 How to reach me: cv@jpfchang.org
 - 😄 Pronouns: master.
 - ⚡ Fun fact: guess!
