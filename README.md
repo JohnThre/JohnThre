@@ -1,8 +1,8 @@
-- 🔭 I’m currently working on Android, iOS, and macOS app development.
-- 🌱 I’m currently using and learning Swift, Dart, Rust, Python, C, Java, Typescript, Pascal.
+- 🔭 I’m currently working on GNU/Linux, Android, iOS, and macOS app development.
+- 🌱 I’m currently using and learning Swift, Dart, Python, C, Java, Pascal.
 - 👯 I’m looking to collaborate on development and research.
 - 🤔 I’m looking for help with things which I don't know.
 - 💬 Ask me about something interesting.
 - 📫 How to reach me: cv@jpfchang.org
-- 😄 Pronouns: master.
-- ⚡ Fun fact: guess!
+- 😄 Pronouns: Master.
+- ⚡ Fun fact: I need cute girlfriends! 🥰
